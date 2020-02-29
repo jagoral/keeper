@@ -1,6 +1,6 @@
 <script>
-  import "./_theme.scss";
-  import Card from "components/Card.svelte";
+  import './_theme.scss';
+  import Card from 'components/Card.svelte';
 </script>
 
 <svelte:head>

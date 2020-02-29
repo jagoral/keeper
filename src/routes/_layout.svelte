@@ -1,6 +1,6 @@
 <script>
-  import Nav from "components/Nav.svelte";
-  import "./_theme.scss";
+  import Nav from 'components/Nav.svelte';
+  import './_theme.scss';
 
   export let segment;
 </script>
